@@ -22,9 +22,9 @@
 <br>
 ### Information
 <br>
-- 🌱 I’m currently learning **Cyber Security, Front/Backend, Devops** <br>
-- 🤝 My partner with **Naaa** <br>
-- 📫 How to reach me **naffsvn@protonmail.com** <br>
+- 🌱 I’m currently learning Cyber Security, Front/Backend, Devops <br>
+- 🤝 My partner with Naaa<br>
+- 📫 How to reach me naffsvn@protonmail.com<br>
 <br>
 ### Stats
 <br>
@@ -32,3 +32,12 @@
     <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
 </p>
+<br>
+### Medsos
+<br>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/naffsisky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naffsisky" height="30" width="40" /></a>
+<a href="https://instagram.com/naffsvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naffsvn" height="30" width="40" /></a>
+</p>
+<br>
