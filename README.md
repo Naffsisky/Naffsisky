@@ -1,5 +1,5 @@
-# Hi Guyss.. 👋!
-Hi gais, CTA aja sih sebenernya. Yaudahlah ya!... Github ini gua pake buat share code yang udah gua buat, yang gua buat sendiri maupun team atau collab. Tapi kebanyakan bikin code kalo lagi gabut aja sih, kadang buat tugas kampus juga haha.  
+<h1 align="center">Hello 👋,Just call me Nap</h1>
+<h3 align="center">I am a student, currently studying in the Department of Informatics</h3>
 
 ### Tools:
 <p>
