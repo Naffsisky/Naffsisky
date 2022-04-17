@@ -1,10 +1,10 @@
-<h1 align="center">Hello 👋,Just call me Nap</h1>
+<h1 align="center">Hello 👋, Just call me Nap</h1>
 <h3 align="center">I am a student, currently studying in the Department of Informatics</h3>
 
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/OS-Apple-lightgrey?&logo=Apple" />
+    <img src="https://img.shields.io/badge/OS-MACos-lightgrey?&logo=Apple" />
     <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Kali-lightgrey?&logo=Kali-linux" />
     <img src="https://img.shields.io/badge/Bahasa-Python-informational?&logo=python" />
