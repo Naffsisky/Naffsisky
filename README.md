@@ -19,12 +19,14 @@
     <br>
     <img src="https://gpvc.arturio.dev/naffsisky" />
 </p>
+<br>
 ### Information
 <p>
 - 🌱 I’m currently learning **Cyber Security, Front/Backend, Devops** <br>
 - 🤝 My partner with **Naaa** <br>
 - 📫 How to reach me **naffsvn@protonmail.com**
 </p>
+<br>
 ### Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
