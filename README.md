@@ -21,10 +21,13 @@
 </p>
 <br>
 ### Information
+<br>
 - 🌱 I’m currently learning **Cyber Security, Front/Backend, Devops** <br>
 - 🤝 My partner with **Naaa** <br>
-- 📫 How to reach me **naffsvn@protonmail.com**
+- 📫 How to reach me **naffsvn@protonmail.com** <br>
+<br>
 ### Stats
+<br>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
