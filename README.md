@@ -20,16 +20,12 @@
     <img src="https://gpvc.arturio.dev/naffsisky" />
 </p>
 <br>
-<h3 Information</h3>
-<p>
+### Information
 - 🌱 I’m currently learning **Cyber Security, Front/Backend, Devops** <br>
 - 🤝 My partner with **Naaa** <br>
 - 📫 How to reach me **naffsvn@protonmail.com**
-</p>
-<br>
-<h3 Stats<h/3>
+### Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
-
 </p>
