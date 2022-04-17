@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, Just call me Nap</h1>
 <h3 align="center">I am a student, currently studying in the Department of Informatics</h3>
 
-### Tools
+## Tools
 <p>
     <img src="https://img.shields.io/badge/-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/-MAC-lightgrey?&logo=Apple" />
@@ -20,7 +20,7 @@
     <img src="https://gpvc.arturio.dev/naffsisky" />
 </p>
 <br>
-### Information
+## Information
 <br>
 - 🌱 I’m currently learning Cyber Security, Front/Backend, Devops <br>
 - 🤝 My partner with Naaa<br>
@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
 </p>
 <br>
-### Medsos
+## Medsos
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
