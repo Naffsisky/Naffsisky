@@ -4,6 +4,7 @@
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/OS-Apple-lightgrey?&logo=Apple" />
     <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Kali-lightgrey?&logo=Kali-linux" />
     <img src="https://img.shields.io/badge/Bahasa-Python-informational?&logo=python" />
