@@ -16,11 +16,15 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <br>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naffsisky"      alt="naffsisky" /></a> </p>
-<p align="left"> <a href="https://twitter.com/naffsisky" target="blank"><img src="https://img.shields.io/twitter/follow/naffsisky?logo=twitter&style=for-the-badge" alt="naffsisky" /></a> </p>
     <br>
     <img src="https://gpvc.arturio.dev/naffsisky" />
 </p>
-
+### Information:
+<p>
+- 🌱 I’m currently learning **Cyber Security, Front/Backend, Devops**
+- 🤝 My partner with **Naaa**
+- 📫 How to reach me **naffsvn@protonmail.com**
+</p>
 ### Stats:
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
