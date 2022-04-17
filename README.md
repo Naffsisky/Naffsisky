@@ -3,10 +3,11 @@
 
 ### Tools:
 <p>
-    <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
-    <img src="https://img.shields.io/badge/OS-MACos-lightgrey?&logo=Apple" />
-    <img src="https://img.shields.io/badge/OS-Linux-yellow?&logo=Linux" />
-    <img src="https://img.shields.io/badge/OS-Kali-lightgrey?&logo=Kali-linux" />
+    <img src="https://img.shields.io/badge/-Windows-blue?&logo=Windows" />
+    <img src="https://img.shields.io/badge/-MACos-lightgrey?&logo=Apple" />
+    <img src="https://img.shields.io/badge/-Linux-yellow?&logo=Linux" />
+    <img src="https://img.shields.io/badge/-Kali-lightgrey?&logo=Kali-linux" />
+    <br>
     <img src="https://img.shields.io/badge/Bahasa-Python-informational?&logo=python" />
     <img src="https://img.shields.io/badge/Bahasa-Js-informational?&logo=Javascript" />
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
