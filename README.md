@@ -15,6 +15,10 @@
     <br>
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <br>
+</p>
+
+# Trophy
+<p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naffsisky"      alt="naffsisky" /></a> </p>
     <br>
     <img src="https://gpvc.arturio.dev/naffsisky" />
