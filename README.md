@@ -20,13 +20,12 @@
 # Trophy
 <p>
     <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naffsisky"      alt="naffsisky" /></a> </p>
-    <br>
-    <img src="https://gpvc.arturio.dev/naffsisky" />
 </p>
 <br>
 
 # Information
 <br>
+<img src="https://gpvc.arturio.dev/naffsisky" />
 - 🌱 I’m currently learning Cyber Security, Front/Backend, Devops <br>
 - 🤝 My partner with Naaa<br>
 - 📫 How to reach me naffsvn@protonmail.com<br>
