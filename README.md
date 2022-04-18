@@ -30,6 +30,7 @@
 <br>
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
+    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
 </p>
 <br>
