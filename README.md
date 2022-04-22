@@ -27,7 +27,7 @@
 <br>
 <img src="https://gpvc.arturio.dev/naffsisky" />
 - 🌱 I’m currently learning Cyber Security, Front/Backend, Devops <br>
-- 🤝 My partner with Naaa<br>
+- 🤝 My partner with Naaa <3 <br>
 - 📫 How to reach me naffsvn@protonmail.com<br>
 <br>
 <h3 align="left"> Stats : </h3>
