@@ -17,24 +17,17 @@
     <br>
 </p>
 
-# Trophy
-<p>
-    <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naffsisky"      alt="naffsisky" /></a> </p>
-</p>
 <br>
 
 # Information
 <br>
 <img src="https://gpvc.arturio.dev/naffsisky" />
-- 🌱 I’m currently learning Cyber Security, Backend, Devops <br>
-- 🤝 My partner with Naaa <3 <br>
+- 🌱 I’m currently learning Cyber Security, Backend, Devops, and Cloud <br>
 - 📫 How to reach me naffsvn@protonmail.com<br>
 <br>
 <h3 align="left"> Stats : </h3>
 <br>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=naffsisky&show_icons=true&theme=outrun" />
-    <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
 </p>
 <br>
