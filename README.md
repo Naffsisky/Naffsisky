@@ -1,7 +1,11 @@
 <h1 align="center">Hello 👋, Just call me Nap</h1>
 <h3 align="center">I am a student, currently studying in the Department of Informatics</h3>
 
-# Tools
+<br>
+
+<div align="center">
+    
+## Tools
 <p>
     <img src="https://img.shields.io/badge/-Windows-blue?&logo=Windows" />
     <img src="https://img.shields.io/badge/-MAC-lightgrey?&logo=Apple" />
@@ -17,22 +21,32 @@
     <br>
 </p>
 
+</div>
+
 <br>
 
-# Information
+<div align="center">
+
+## Information
+
+🌱 I’m currently learning Cyber Security, Backend, Devops, and Cloud <br>
+📫 How to reach me naffsvn@protonmail.com<br>
+
 <br>
-- 🌱 I’m currently learning Cyber Security, Backend, Devops, and Cloud <br>
-- 📫 How to reach me naffsvn@protonmail.com<br>
-<br>
-<h3 align="left"> Stats : </h3>
-<br>
+
+## Stats
 <p>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naffsisky&layout=compact&theme=outrun" height=163 />
 </p>
+
+</div>
+
 <br>
 
-# Connect with me
-<p align="left">
+<div align="center">
+
+## Connect with me
+<p>
 <a href="https://twitter.com/naffsisky" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="naffsisky" height="30" width="40" /></a>
 <a href="https://instagram.com/naffsvn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="naffsvn" height="30" width="40" /></a>
 </p>
@@ -41,7 +55,7 @@
 # Tools
 
 ### Cloud
-<p align="left">
+<p>
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
     </a>
@@ -60,7 +74,7 @@
 </p>
 
 ### Web
-<p align="left">
+<p>
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
     </a>
@@ -82,7 +96,7 @@
 </p>
 
 ### Database
-<p align="left">
+<p>
     <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> 
         <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
     </a> 
@@ -92,7 +106,7 @@
 </p>
 
 ### DevApp
-<p align="left">
+<p>
     <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> 
     </a> 
@@ -102,7 +116,7 @@
 </p>
 
 ### Automatication
-<p align="left">
+<p>
     <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
     </a> 
@@ -115,7 +129,7 @@
 </p>
 
 ### Other Language
-<p align="left">
+<p>
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
     </a> 
@@ -130,4 +144,8 @@
     </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naffsisky&theme=dark" alt="naffsisky" /></p>
+</div>
+
+<br>
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naffsisky&theme=dark" alt="naffsisky" /></p>
